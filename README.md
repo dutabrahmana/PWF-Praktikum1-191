@@ -16,3 +16,8 @@ PRODUK BERHASIL DITAMBAHKAN<img width="1600" height="900" alt="image" src="https
 PROFILE INFORMASI<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/8173146b-a7fe-4c60-b353-143f86f570ba" />
 
 
+TUGAS 7
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/e21772d8-d8fd-4a59-98b3-39b511091f3d" />
+
+
+
